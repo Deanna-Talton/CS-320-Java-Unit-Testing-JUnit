@@ -8,7 +8,7 @@ Skills Demonstrated: Unit Testing • Automated Testing • JUnit • Input Vali
 
 ---
 
-Reflection Journal
+## **Reflection Journal**
 
 This project emphasized that software should not only run but also be verified to behave correctly. I ensured the program was functional by creating automated JUnit tests that validated requirements such as field length limits, null value restrictions, valid dates, and unique identifiers. Running the test suite after each code change allowed me to immediately identify defects and confirm that updates did not break existing functionality. Input validation also contributed to security by preventing unexpected or invalid data from entering the system, reducing potential runtime errors and misuse.
 
